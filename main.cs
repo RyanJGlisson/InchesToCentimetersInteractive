@@ -15,6 +15,7 @@ class Program {
           // Calculate centimeters
           centimeters = inches * centInInch;
 
+        
           // Display the result
           Console.WriteLine(inches + " inches is " + centimeters + " centimeters");
       } else {
